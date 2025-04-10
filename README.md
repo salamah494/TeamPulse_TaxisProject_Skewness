@@ -1,4 +1,4 @@
-# TeamPulse_TaxisProject_Skewness
-This project is a dataset which provides records of taxi trips with a valuable resource for analyzing transportation trends.Key features include;  trip times, travel distance, passenger details, fare and tips, payment type. The visualization used to analyze the statistical measure of the data is skewness
-The visualization of payment methods,pick up  and drop off in a particular vicinity 
-This is good for practice since it has all the needed features for UML.
+# TeamPulse_Marketing_SalesProject_Skewness
+ The marketing sales data refers to a collection of data used by companies to analyze customer behaviour,marketing and sales pattern.In this project,we analyzed customer behaviour,understand what drive sales and make decisions to improve marketting strategies.We visualised the data using skewness,skewness helps identify high value and low value customers,it also tells you which features need transformation or special handling.
+
+
